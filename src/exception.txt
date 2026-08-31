@@ -1,0 +1,11 @@
+Exceções são situações imprevistas que ocorrem enquanto um programa está rodando e que podem impedir que o programa
+ funcione corretamente.
+ Quando um erro acontece e não é tratado, isso pode fazer com que o programa pare de funcionar completamente.
+ Em outras palavras, se um problema não for resolvido, ele pode levar ao fechamento do programa, causando uma interrupção
+ inesperada em sua execução.
+
+O objetivo de usar o tratamento de exceções é garantir que o programa continue funcionando, em vez de parar ou fechar de
+ forma inesperada quando um problema ocorre. Isso significa lidar com os erros de modo que o programa possa se adaptar e
+  continuar a operar da melhor maneira possível. Criar software que possa resistir a falhas é fundamental para
+  desenvolver sistemas que sejam fortes e confiáveis,
+ pois melhora a experiência do usuário e reduz a possibilidade de interrupções no serviço.
